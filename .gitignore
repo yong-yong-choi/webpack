@@ -1,0 +1,4 @@
+install-note.txt
+node_modules/
+dist/
+package-lock.json
